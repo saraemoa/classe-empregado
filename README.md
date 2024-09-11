@@ -1,2 +1,2 @@
 # classe-empregado
- POO
+ Programação Orientada à Objeto
